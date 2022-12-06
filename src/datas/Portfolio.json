@@ -1,0 +1,54 @@
+[
+
+{"id":"projet-1",
+"titre":"Prenez en main votre formation de développeur web",
+"theme":"Veille informationnelle professionnelle",
+"Competences":["","","",""]},
+
+
+{
+    "id":"projet-2",
+    "titre":"Transformez une maquette en site web avec HTML & CSS",
+    "theme":"Veille informationnelle professionnelle",
+    "Notions":[{
+    "Mettre en place un environnement de développement front-end":
+    ["Visual Studio Code","Exploration du navigateur Chome","Exploration du navigateur Firefox"]},
+    {"Créer un site web avec HTML5 et CSS3":
+    ["HTML","Agencement du contenu d'une page","CSS","Flexbox","Grid","Médiaqueries","Bordures","Ombres","Dynamisne","Formulaires","Boutons"]
+    } ],
+    "Lien-cours":"https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3",
+    "Lien-github":"https://github.com/Fabbaigts/BOOKI",
+    "Lien-aperçu-site":""
+    
+
+}
+,
+
+
+{"id":"projet3",
+"titre":"Dynamisez une page web avec des animations CSS"},
+{"id":"projet4",
+"titre":"Optimisez un site web exista"},
+{"id":"projet5",
+"titre":"Construisez un site e-commerce en JavaScript"},
+{"id":"projet6",
+"titre":"Construisez une API sécurisée pour une application d'avis gastronomiques"},
+{"id":"projet7",
+"titre":"Créez une application web de location immobilière avec React"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
